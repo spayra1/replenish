@@ -1,0 +1,12 @@
+{
+  "name": "rbrott/replenish",
+  "version": "0.0.0",
+  "author": "spayra1",
+  "stdlib": {
+    "name": "rbrott/replenish",
+    "timeout": 10000
+  },
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
